@@ -35,6 +35,9 @@ https://github.com/NirantK/awesome-project-ideas
 # Month 3 (Deep Learning)
 
 ## Week 1 
+Deep Learning By Andrew Ng || Stanford Lectures
+https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+
 Intro to Deep Learning
 https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
 
